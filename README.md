@@ -1,8 +1,8 @@
 # AzureBlobUtility
 Contains methods to access, list and write the contents from/to Blob files under Azure Storage Account.
 
-1. Read Blob files in Storage Account
-2. Write Blob files in Storage Account
+1. Read Blob files from Storage Account
+2. Write Blob files into Storage Account
 
 This solution has 2 projects
 
